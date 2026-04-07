@@ -8,15 +8,21 @@ Emprendí mi camino de manera autodidacta y en octubre de 2025 ingresé al Bootc
 
 ---
 
-### 🛠️ Tecnologías
+## 🛠️ Tecnologías
 
-- Frontend
+### - Frontend
 
 <img src="./images/html5.svg" alt="HTML5" width="50" height="50"> <img src="./images/css3.svg" alt="CSS3" width="50" height="50"> <img src="./images/javascript.svg" alt="JavaScript" width="50" height="50">
 
-- Proximamente
+### - Proximamente
 
 <img src="./images/react.svg" alt="React" width="50" height="50"> <img src="./images/mongoDB.svg" alt="Mongo DB" width="50" height="50"> <img src="./images/nodeJS.svg" alt="Node JS" width="50" height="50">
+
+---
+
+## 🖥️ Proyectos Destacados
+
+### 🔸 Proyecto - [web_project_around_es]
 
 <!--
 **CarMa90/CarMa90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
