@@ -24,8 +24,20 @@ Emprendí mi camino de manera autodidacta y en octubre de 2025 ingresé al Bootc
 
 ### 🔸 Proyecto - [web_project_around_es]
 
+[Visitar Sitio](https://carma90.github.io/web_project_around_es/src/)
+
+Contexto: Desarrollo de una aplicación web interactiva con uso de una API y manipulaciones en el DOM
+
+Tecnologías: HTML5, CSS3 y JavaScript
+
+Aprendizajes:
+
+- Reestructuración de código
+- Uso de clases en JavaScript
+- Interacciones con una API externa
+
 <!--
-**CarMa90/CarMa90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  **CarMa90/CarMa90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -37,4 +49,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
