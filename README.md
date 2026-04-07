@@ -1,4 +1,4 @@
-![javascript](https://github.com/user-attachments/assets/96195788-6434-4d04-ad10-e8c8c5614d1b)# Hola, Soy Carlos Castro.
+# Hola, Soy Carlos Castro.
 
 ### Desarrollador Web Full Stack en formación | Bootcamp TripleTen
 
