@@ -10,31 +10,30 @@ Emprendí mi camino de manera autodidacta y en octubre de 2025 ingresé al Bootc
 
 ## 🛠️ Tecnologías
 
-### - Frontend
+<img src="./images/html5.svg" alt="HTML5" width="50" height="50"> 
+  <img src="./images/css3.svg" alt="CSS3" width="50" height="50"> 
+  <img src="./images/javascript.svg" alt="JavaScript" width="50" height="50"> 
+  <img src="./images/git.svg" alt="Git" width="50" height="50"> 
+  <img src="./images/github.svg" alt="GitHub" width="50" height="50">
 
-<img src="./images/html5.svg" alt="HTML5" width="50" height="50"> <img src="./images/css3.svg" alt="CSS3" width="50" height="50"> <img src="./images/javascript.svg" alt="JavaScript" width="50" height="50">
+## 📚 Proximamente
 
-### - Proximamente
-
-<img src="./images/react.svg" alt="React" width="50" height="50"> <img src="./images/mongoDB.svg" alt="Mongo DB" width="50" height="50"> <img src="./images/nodeJS.svg" alt="Node JS" width="50" height="50">
+<img src="./images/react.svg" alt="React" width="50" height="50"> 
+  <img src="./images/mongoDB.svg" alt="Mongo DB" width="50" height="50"> 
+  <img src="./images/nodeJS.svg" alt="Node JS" width="50" height="50">
 
 ---
 
 ## 🖥️ Proyectos Destacados
 
-### 🔸 Proyecto - [web_project_around_es]
+### 🔸 Proyecto 1 - Alrededor de los Estados Unidos
 
-[Visitar Sitio](https://carma90.github.io/web_project_around_es/src/)
+- Problema: Desarrollar una aplicación interactivaque permita manipular contenido dinámicamente (fotos, likes, perfiles) sin recargar la página.
+- Trabajo: Manipulación del DOM y funciones asíncronas en JavaScript, asegurando una lógica estructurada y limpia.
+- Resultado: Reforcé la resolución de problemas mediante lógica estructurada y el uso de Git para control de versiones.
+- 🛠️ Stack: HTML, CSS, JavaScript (Async)
 
-Contexto: Desarrollo de una aplicación web interactiva con uso de una API y manipulaciones en el DOM
-
-Tecnologías: HTML5, CSS3 y JavaScript
-
-Aprendizajes:
-
-- Reestructuración de código
-- Uso de clases en JavaScript
-- Interacciones con una API externa
+  [Visitar Sitio](https://carma90.github.io/web_project_around_es/src/)
 
 <!--
   **CarMa90/CarMa90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
