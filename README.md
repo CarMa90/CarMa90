@@ -1,4 +1,12 @@
-## Hi there 👋
+![javascript](https://github.com/user-attachments/assets/96195788-6434-4d04-ad10-e8c8c5614d1b)# Hola, Soy Carlos Castro.
+
+### Desarrollador Web Full Stack en formación | Bootcamp TripleTen
+
+Desarrollador web junior en busca de colaborar a que los sitios web sean amigables con el usuario, interactivos, responsivos y eficientes. Disfruto de buscar soluciones a situaciones comunes y poder compartirlas con otras personas u organizaciones.
+
+Emprendí mi camino de manera autodidacta y en octubre de 2025 ingresé al Bootcamp en Desarrollo Web de Triple Ten.
+___
+
 
 <!--
 **CarMa90/CarMa90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
