@@ -5,13 +5,13 @@
 Desarrollador web junior en busca de colaborar a que los sitios web sean amigables con el usuario, interactivos, responsivos y eficientes. Disfruto de buscar soluciones a situaciones comunes y poder compartirlas con otras personas u organizaciones.
 
 Emprendí mi camino de manera autodidacta y en octubre de 2025 ingresé al Bootcamp en Desarrollo Web de Triple Ten.
-___
+
+---
 
 ### 🛠️ Tecnologías
 
 - Frontend
-<img src="./images/javascript.svg" alt="JavaScript" width="50" height="50">
-
+  <img src="./images/html5.svg" alt="JavaScript" width="50" height="50"> <img src="./images/javascript.svg" alt="JavaScript" width="50" height="50">
 
 <!--
 **CarMa90/CarMa90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
