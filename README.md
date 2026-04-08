@@ -38,6 +38,13 @@ Emprendí mi camino de manera autodidacta y en octubre de 2025 ingresé al Bootc
 
   [Visitar Sitio](https://carma90.github.io/web_project_homeland)
 
+---
+
+## 📬 Contacto
+
+✉️ carlos.castro.matteotti@gmail.com
+✉️ el.matteotti@gmail.com
+
 <!--
   **CarMa90/CarMa90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
