@@ -29,6 +29,15 @@ Emprendí mi camino de manera autodidacta y en octubre de 2025 ingresé al Bootc
 
   [Visitar Sitio](https://carma90.github.io/web_project_around_es/src/)
 
+### 🔸 Proyecto 2 - Homeland
+
+- Problema: Desarrollar una página web que se adapte a los distintos tamaños de pantalla de los dispositivos desde los cuales se puede visualizar.
+- Trabajo: Uso de medidas responsivas (porcentajes, unidades de viewport) y consultas de medios para ajustar el diseño utilizando puntos de quiebre.
+- Resultado: Practiqué y busqué la manera en la cual se adapta el contenido de un sitio web al tamaño de pantalla dependiendo de los distintos dispositivos.
+- 🛠️ Stack: HTML, CSS
+
+  [Visitar Sitio](https://carma90.github.io/web_project_homeland)
+
 <!--
   **CarMa90/CarMa90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
