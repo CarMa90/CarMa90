@@ -43,6 +43,7 @@ Emprendí mi camino de manera autodidacta y en octubre de 2025 ingresé al Bootc
 ## 📬 Contacto
 
 ✉️ carlos.castro.matteotti@gmail.com
+
 ✉️ el.matteotti@gmail.com
 
 <!--
