@@ -14,7 +14,7 @@ Emprendí mi camino de manera autodidacta y en octubre de 2025 ingresé al Bootc
 
 ## 📚 Proximamente
 
-<img src="./images/react.svg" alt="React" width="50" height="50"> <img src="./images/mongoDB.svg" alt="Mongo DB" width="50" height="50"> <img src="./images/nodeJS.svg" alt="Node JS" width="50" height="50">
+<img src="./images/vite.svg" alt="Vite" width="50" height="50"> <img src="./images/react.svg" alt="React" width="50" height="50"> <img src="./images/mongoDB.svg" alt="Mongo DB" width="50" height="50"> <img src="./images/nodeJS.svg" alt="Node JS" width="50" height="50">
 
 ---
 
